@@ -1,0 +1,16 @@
+{
+  "name": "catobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Kaiser - Shadgun",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.1.0"
+  }
+}
